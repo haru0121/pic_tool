@@ -1,0 +1,61 @@
+.page_links{
+    height: 200px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type:none;
+}
+.page_links li{
+    float: left;
+}
+.active{
+    color:#ff5d9e;
+}
+.icon_form{
+    background-color:#eeeeee;
+    max-height: 300px;
+    max-width: 300px;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    
+}
+.icon_form label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    line-height: 300px;
+    z-index: 2;
+}
+input[type="file"]{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    z-index: 3;
+    opacity: 0;
+}
+.icon_form img{
+    position:absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+
+}
+
+.alart{
+    background-color: #022c43;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align:center;
+    display:none;
+}
