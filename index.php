@@ -3,6 +3,7 @@ require('function.php');
 
 debugLogStart();
 $check_area=(!empty($_GET['area']))? intval($_GET['area']):'';
+$word=(isset($_GET['w']))? htmlspecialchars($_GET['w']):'';
 $page=(!empty($_GET['p']))? $_GET['p']:1;
 if(!is_int((int)$page)){
     header('Location:index.php');
@@ -12,7 +13,7 @@ $list_span=10;
 // ページ始まりの一番最初のコンテンツの番号
 $cur_min_num=(($page-1)*$list_span);
 
-$pictures=get_pictures($cur_min_num,$check_area);
+$pictures=get_pictures($cur_min_num,$check_area,$word);
 // エリアカテゴリ取得
 $area_cat=get_area();
 
@@ -25,9 +26,17 @@ require('head.php');
 <?php
 require('header.php');
 ?>
-
-<!-- エリアカテゴリ -->
+<?php
+if(!empty($_SESSION['login_time']) && !empty($_SESSION['u_id'])){
+require('menu.php');
+}
+?>
 <form method="get">
+
+<!-- 文字検索 -->
+<input type="text" name="w" value="<?php echo isset($_GET['w']) ? htmlspecialchars($_GET['w']) : '' ?>">
+<!-- エリアカテゴリ -->
+
     <select name='area'>
         <option value="0">選択してください</option>
         <?php foreach ($area_cat as $key => $area) { ?>
@@ -38,8 +47,8 @@ require('header.php');
 </form>
 
 <span><?php echo sani($pictures['total']);?></span>件見つかりました。
-<span><?php echo $cur_min_num+1?></span>-<span><?php echo $cur_min_num+$list_span; ?></span>件/
-<span><?php echo sani($pictures['total']);?></span>
+<?php if(!empty($pictures['total'])){echo ('<span>'.($cur_min_num+1).'</span>-');}?><span><?php if($cur_min_num+$list_span>$pictures['total']){echo $pictures['total'];}else{echo $cur_min_num+$list_span;} ?></span>件/
+<span><?php echo sani($pictures['total']);?></span>件中
 <?php if(!empty($pictures)){?>
 <?php foreach ($pictures['data'] as $key => $pic) { ?>
        <a href="showpic.php?p_id=<?php echo $pic['id']?>&p=<?php echo $page?><?php if(!empty($check_area)){echo '&area='.$check_area;}?>"><img src="<?php echo $pic['picture1']?>" width="200px" height="200px"></a> 

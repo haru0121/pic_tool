@@ -205,7 +205,7 @@ function get_picture($p_id,$u_id){
 function get_pic_user($p_id){
     try{
         $dbh=dbConnect();
-        $sql='SELECT u.u_name,u.icon FROM users AS u LEFT JOIN picture AS p ON u.id=p.user_id WHERE p.id=:p_id';
+        $sql='SELECT u.id,u.u_name,u.icon FROM users AS u LEFT JOIN picture AS p ON u.id=p.user_id WHERE p.id=:p_id';
         $exec=array(':p_id'=>$p_id);
         $stmt=querySet($dbh,$sql,$exec);
         if($stmt){
@@ -362,31 +362,41 @@ function page_sql($page,$limit,$dbname){
 
 
 // 写真一覧取得//////////////////
-function get_pictures($cur_min_num=1,$check_area,$span=10){
+function get_pictures($cur_min_num=1,$check_area='',$word='',$span=10){
     debug('写真一覧取得');
     try{
         $dbh=dbConnect();
-        $sql='SELECT id FROM picture';
-        if(!empty($check_area)){
+        $sql = 'SELECT count(*) FROM picture';
+        
+        if(!empty($check_area)&&!empty($word)){
           
             $sql.=' WHERE area_id='.$check_area;
-           
+            $sql.=" AND (concat(title,cutline) like '%$word%')";
+        }elseif(!empty($check_area)){
+            $sql.=' WHERE area_id='.$check_area;
+        }elseif(!empty($word)){
+            $sql.=" WHERE (concat(title,cutline) like '%$word%')";
         }
             $exec=array();
         
-        
+            // $stmt = $dbh->query($sql);
         $stmt=querySet($dbh,$sql,$exec);
-        $rst['total'] =$stmt->rowCount();
+        $rst['total'] =$stmt->fetchColumn();
+        debug($rst['total']);
         $rst['total_page']=ceil($rst['total']/$span);
         if(!$rst){
             return false;
         }
 
         $sql='SELECT * FROM picture';
-        if(!empty($check_area)){
+        if(!empty($check_area)&&!empty($word)){
           
             $sql.=' WHERE area_id='.$check_area;
-           
+            $sql.=" AND (concat(title,cutline) like '%$word%')";
+        }elseif(!empty($check_area)){
+            $sql.=' WHERE area_id='.$check_area;
+        }elseif(!empty($word)){
+            $sql.=" WHERE (concat(title,cutline) like '%$word%')";
         }
         $sql.=' LIMIT '.$span.' OFFSET '.$cur_min_num;
         $exec=array();

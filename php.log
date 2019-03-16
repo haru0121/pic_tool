@@ -7670,3 +7670,1102 @@ Stack trace:
 [15-Mar-2019 17:39:43 Asia/Tokyo] デバッグ：エリアカテゴリ取得
 [15-Mar-2019 17:39:43 Asia/Tokyo] デバッグ：データベース接続
 [15-Mar-2019 17:39:43 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：現在日時：1552698404
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:44 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：現在日時：1552698409
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:06:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：現在日時：1552699097
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:18:17 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：現在日時：1552700202
+[16-Mar-2019 10:36:42 Asia/Tokyo] PHP Notice:  Undefined index: w in C:\xampp\htdocs\pic_tool\index.php on line 6
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:36:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：現在日時：1552700257
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:37:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：現在日時：1552700281
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：現在日時：1552700291
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 10:38:11 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT id FROM picture WHERE title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 10:38:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in C:\xampp\htdocs\pic_tool\function.php:383
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, '', '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 383
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：現在日時：1552700305
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:25 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：現在日時：1552700308
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 10:38:28 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT id FROM picture WHERE area_id=1 AND title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 10:38:28 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in C:\xampp\htdocs\pic_tool\function.php:383
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 1, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 383
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：現在日時：1552701002
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 10:50:02 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT id FROM picture WHERE area_id=1 AND title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 10:50:02 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in C:\xampp\htdocs\pic_tool\function.php:383
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 1, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 383
+[16-Mar-2019 10:59:34 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 10:59:34 Asia/Tokyo] デバッグ：現在日時：1552701574
+[16-Mar-2019 10:59:34 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 10:59:34 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 10:59:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in C:\xampp\htdocs\pic_tool\function.php:384
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 1, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 384
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：現在日時：1552701950
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 11:05:50 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM picture WHERE area_id=1 AND title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 11:05:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on int in C:\xampp\htdocs\pic_tool\function.php:384
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 1, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 384
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：現在日時：1552701953
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 11:05:53 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM picture WHERE area_id=1 AND title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 11:05:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on int in C:\xampp\htdocs\pic_tool\function.php:384
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 1, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 384
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：現在日時：1552702267
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:11:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：現在日時：1552702274
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 11:11:14 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM picture WHERE area_id=4 AND title,cutline like '%にゃ%'
+)
+
+[16-Mar-2019 11:11:14 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on int in C:\xampp\htdocs\pic_tool\function.php:384
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 4, '\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 384
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：現在日時：1552702352
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 AND title,cutline like '%にゃ%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT * FROM picture WHERE area_id=4 AND title,cutline like '%にゃ%' LIMIT 10 OFFSET 0
+)
+
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:12:32 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：現在日時：1552702357
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 AND title,cutline like '%にゃ%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT * FROM picture WHERE area_id=4 AND title,cutline like '%にゃ%' LIMIT 10 OFFSET 0
+)
+
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:12:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：現在日時：1552702420
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 AND cutline like '%にゃ%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：現在日時：1552702430
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE cutline like '%にゃ%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：現在日時：1552702438
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE cutline like '%に%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:13:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：現在日時：1552702441
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:01 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：現在日時：1552702447
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE cutline like '%a%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：現在日時：1552702453
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=2 AND cutline like '%a%' LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:13 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：現在日時：1552702456
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:16 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：現在日時：1552702458
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：1
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=1 LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：現在日時：1552702462
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 LIMIT 10 OFFSET 0
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 11:14:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：現在日時：1552711664
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 LIMIT 10 OFFSET 0
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：現在日時：1552711666
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:46 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：現在日時：1552711670
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 LIMIT 10 OFFSET 0
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:47:50 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：現在日時：1552711687
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：クエリ失敗
+[16-Mar-2019 13:48:07 Asia/Tokyo] デバッグ：SQL:PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM picture WHERE area_id=4 AND (concat(title,cutline)) like '%ころにゃ%')
+)
+
+[16-Mar-2019 13:48:07 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on int in C:\xampp\htdocs\pic_tool\function.php:384
+Stack trace:
+#0 C:\xampp\htdocs\pic_tool\index.php(16): get_pictures(0, 4, '\xE3\x81\x93\xE3\x82\x8D\xE3\x81\xAB\xE3\x82\x83')
+#1 {main}
+  thrown in C:\xampp\htdocs\pic_tool\function.php on line 384
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：現在日時：1552711782
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 AND (concat(title,cutline) like '%ころにゃ%') LIMIT 10 OFFSET 0
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：現在日時：1552711792
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：現在日時：1552711794
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:54 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：現在日時：1552711798
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:49:58 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：現在日時：1552711806
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 20
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:50:06 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：現在日時：1552711810
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:50:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:51:33 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:51:33 Asia/Tokyo] デバッグ：現在日時：1552711893
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：現在日時：1552711899
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：POST送信されました
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：空送信チェック通過
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：バリデーションok
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：パスワードマッチ
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：ログイン認証チェック無し
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：現在日時：1552711899
+[16-Mar-2019 13:51:39 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552711899
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：現在日時：1552712671
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712671
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:04:31 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:04:33 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:33 Asia/Tokyo] デバッグ：現在日時：1552712673
+[16-Mar-2019 14:04:33 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712673
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：現在日時：1552712674
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712674
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:04:34 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:04:37 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:37 Asia/Tokyo] デバッグ：現在日時：1552712677
+[16-Mar-2019 14:04:37 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712677
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:38 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:38 Asia/Tokyo] デバッグ：現在日時：1552712678
+[16-Mar-2019 14:04:38 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712678
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:40 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:40 Asia/Tokyo] デバッグ：現在日時：1552712680
+[16-Mar-2019 14:04:40 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712680
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：現在日時：1552712682
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712682
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:04:42 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:04:44 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:04:44 Asia/Tokyo] デバッグ：現在日時：1552712684
+[16-Mar-2019 14:04:44 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712684
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：現在日時：1552712889
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712889
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:08:09 Asia/Tokyo] PHP Notice:  Undefined index: $u_id in C:\xampp\htdocs\pic_tool\mypage.php on line 10
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:08:09 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：現在日時：1552712909
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712909
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:08:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：現在日時：1552712923
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552712923
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:08:43 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：現在日時：1552713218
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552713218
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:13:38 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：現在日時：1552713219
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:13:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：現在日時：1552713227
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552713227
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:13:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：現在日時：1552714027
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552714027
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:07 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：現在日時：1552714030
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：現在日時：1552714032
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:12 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：現在日時：1552714034
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552714034
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：61写真情報取得
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:14 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：現在日時：1552714038
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:18 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：現在日時：1552714039
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:27:19 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：現在日時：1552714249
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 30
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:30:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：現在日時：1552714289
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 30
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：現在日時：1552714296
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:36 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：現在日時：1552714306
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：1
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=1 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:31:46 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：現在日時：1552714672
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：1
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=1 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:37:52 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：現在日時：1552714679
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:37:59 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：現在日時：1552714684
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=5 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:38:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：現在日時：1552714731
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=5 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:38:51 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：現在日時：1552715327
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=5 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:48:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：現在日時：1552715350
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=5 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:49:10 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：現在日時：1552715354
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE area_id=4 LIMIT 10 OFFSET 0
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:49:14 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：現在日時：1552715375
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552715375
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:49:35 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：現在日時：1552715429
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：SESSION:Array
+(
+    [u_id] => 6
+    [login_time] => 1552715429
+    [login_limit] => 3600
+)
+
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：ユーザー情報取得します
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：現在日時：1552715431
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:31 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：現在日時：1552715434
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 20
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:34 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：現在日時：1552715437
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 30
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：現在日時：1552715440
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 40
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:40 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：現在日時：1552715454
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE (concat(title,cutline) like '%ころにゃ%') LIMIT 10 OFFSET 0
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:50:54 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：現在日時：1552715464
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：0
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE (concat(title,cutline) like '%はる%') LIMIT 10 OFFSET 0
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:51:04 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：現在日時：1552715542
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：44
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：SELECT * FROM picture WHERE (concat(title,cutline) like '%ころにゃ%') LIMIT 10 OFFSET 0
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：現在日時：1552715544
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:24 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：現在日時：1552715546
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：未お気に入り、追加します
+[16-Mar-2019 14:52:26 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：現在日時：1552715550
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：すでにお気に入り済み、消します
+[16-Mar-2019 14:52:30 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：現在日時：1552715677
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:37 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：現在日時：1552715679
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：未お気に入り、追加します
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：現在日時：1552715679
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：すでにお気に入り済み、消します
+[16-Mar-2019 14:54:39 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：現在日時：1552715684
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:44 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：現在日時：1552715688
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：未お気に入り、追加します
+[16-Mar-2019 14:54:48 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：現在日時：1552715689
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：すでにお気に入り済み、消します
+[16-Mar-2019 14:54:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：現在日時：1552715718
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:18 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：現在日時：1552715719
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：未お気に入り、追加します
+[16-Mar-2019 14:55:19 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：現在日時：1552715722
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:22 Asia/Tokyo] デバッグ：いいね済み
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：現在日時：1552715727
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：すでにお気に入り済み、消します
+[16-Mar-2019 14:55:27 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：現在日時：1552715729
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:55:29 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：現在日時：1552715807
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:47 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：現在日時：1552715809
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：未お気に入り、追加します
+[16-Mar-2019 14:56:49 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：「　Ajax　
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：現在日時：1552715811
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：favo.phpだ
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：ポストアリ
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：すでにお気に入り済み、消します
+[16-Mar-2019 14:56:51 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：現在日時：1552716028
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:00:28 Asia/Tokyo] デバッグ：いいねじゃなかった
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：現在日時：1552716062
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：写真一覧取得
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：45
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：SELECT * FROM picture LIMIT 10 OFFSET 0
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：エリアカテゴリ取得
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 15:01:02 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：画面表示処理スタート
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：現在日時：1552741575
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：いいね確認
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：データベース接続
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：クエリ成功
+[16-Mar-2019 22:06:15 Asia/Tokyo] デバッグ：いいねじゃなかった

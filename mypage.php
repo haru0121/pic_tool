@@ -7,23 +7,7 @@ require('login_check.php');
 $_SESSION['login_time']=time();
 debug('SESSION:'.print_r($_SESSION,true));
 
-
-// if(!empty($_SESSION['login_time'])&& !empty($_SESSION['u_id'])){
-//     debug('sessionアリ');
-//     debug('SESSION:'.print_r($_SESSION,true));
-
-//     if($_SESSION['login_time'] + $_SESSION['login_limit']> time() ){
-//         $_SESSION['login_time']=time();
-
-//     }else{
-//         debug('セッションタイムアウト');
-//         session_destroy();
-//         header('Location:login.php');
-//     }
-// }else{
-//     debug('session無し');
-//     header('Location:login.php');
-// }
+$user=get_user($_SESSION['u_id']);
 ?>
 <?php 
 $siteTitle='マイページ'; 
@@ -39,8 +23,13 @@ if(!empty($_SESSION['alart'])){ ?>
 </div>
 <?php $_SESSION['alart']=''; ?>
 <?php } ?>
+<?php echo getDBvalue($user['u_name']); ?>
+
+
+<a href="index.php">もっと見る</a>
 
 <?php
+
 require('menu.php');
 ?>
 <?php 
